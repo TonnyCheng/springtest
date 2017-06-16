@@ -38,6 +38,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>springtest</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
